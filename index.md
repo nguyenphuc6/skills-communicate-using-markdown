@@ -4,5 +4,9 @@
 #### Tiêu đề H4
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ##### Tiêu đề H5
+``` javascript
+var myVar = "Hello, world!";
+```
 ###### Tiêu đề H6
+
 
