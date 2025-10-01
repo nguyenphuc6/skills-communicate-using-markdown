@@ -8,9 +8,10 @@
 var myVar = "Hello, world!";
 ```
 ###### Tiêu đề H6
-- [ ] Turn on GitHub Pages
+- [X] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+
 
 
 
